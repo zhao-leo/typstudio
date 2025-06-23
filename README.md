@@ -1,10 +1,5 @@
 # [WIP] typstudio
 
-> [!NOTE]
-> Typstudio is not actively maintained. I have not had time to actively maintain this project for the last year. The project will most likely be archived at some point in the foreseeable future.
->
-> For those who are looking for an offline alternative, I recommend [Tinymist](https://github.com/Myriad-Dreamin/tinymist).
-
 A W.I.P desktop application for a new markup-based typesetting language, [typst](https://github.com/typst/typst).
 Typstudio is built using [Tauri](https://tauri.app/).
 
@@ -22,11 +17,8 @@ Typstudio is built using [Tauri](https://tauri.app/).
 - [x] Auto complete
 - [x] Image pasting
 - [ ] Linting and formatting
-- [ ] Bibliography assistant
 - [ ] Formatting assistant
 - [ ] Project creation assistant / templates
-
-...and more to come!
 
 ## Installing & Running
 
@@ -34,15 +26,8 @@ Typstudio does not have a stable release yet.
 
 ### Development Builds
 
-Development builds are provided in [releases](https://github.com/Cubxity/typstudio/releases).
+Development builds are provided in [releases](https://github.com/zhao-leo/typstudio/releases).
 The builds support Linux (amd64), macOS (amd64, aarch64), and Windows (amd64).
-
-### Packages
-
-**Unstable:**
-
-- AUR (maintained by [alerque](https://github.com/alerque)):
-  `typstudio` ([link](https://aur.archlinux.org/packages/typstudio))
 
 ### Note about running on macOS
 
